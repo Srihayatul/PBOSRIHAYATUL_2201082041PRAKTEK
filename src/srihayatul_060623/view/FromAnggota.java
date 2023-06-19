@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package annisa_060623.view;
+package srihayatul_060623.view;
 
-import annisa_060623.controller.AnggotaController;
+import srihayatul_060623.controller.AnggotaController;
 /**
  *
  * @author Slime1
