@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package annisa_060623.controller;
-import annisa_060623.view.FromAnggota;
-import annisa_060623.model.*;
+package srihayatul_060623.controller;
+import srihayatul_060623.view.FromAnggota;
+import srihayatul_060623.model.*;
 import javax.swing.table.DefaultTableModel;
 import java.util.List;
 import javax.swing.JOptionPane;
