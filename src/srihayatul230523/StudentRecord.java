@@ -1,4 +1,4 @@
-package annisa230523;
+package srihayatul230523;
 
 public class StudentRecord {
      private String name;
